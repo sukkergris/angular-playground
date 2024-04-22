@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ProductsComponent } from '../products/products.component';
+import { ProductsComponent } from '@app/products/products.component';
 import { NgFor } from '@angular/common';
 
 @Component({

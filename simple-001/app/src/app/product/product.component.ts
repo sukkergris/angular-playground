@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { IProduct } from './product.model'
+import { IProduct } from '@app/product/product.model'
 
 @Component({
   selector: 'tahh-product',

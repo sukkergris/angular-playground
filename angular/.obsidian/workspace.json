@@ -6,71 +6,14 @@
       {
         "id": "8f94d1726615e34c",
         "type": "tabs",
-        "dimension": 54.25126903553299,
         "children": [
-          {
-            "id": "de66f42fac3f063f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f259e6be867f08f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular Interpolation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4798998526d82605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formatting Data with Angular Pipes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "d21d37f3a33a68fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing an Angular app.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "37040517ade71350",
-        "type": "tabs",
-        "dimension": 45.74873096446701,
-        "children": [
-          {
-            "id": "ec5001d932b68d46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
+                "file": "Getting started.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formatting Data with Angular Pipes.md",
+                "file": "Getting started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formatting Data with Angular Pipes.md",
+                "file": "Getting started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formatting Data with Angular Pipes.md"
+                "file": "Getting started.md"
               }
             }
           }
@@ -203,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4798998526d82605",
+  "active": "d21d37f3a33a68fd",
   "lastOpenFiles": [
+    "Testing an Angular app.md",
+    "Welcome.md",
+    "create a link.md",
     "Angular Interpolation.md",
     "Formatting Data with Angular Pipes.md",
-    "Welcome.md",
     "Getting started.md",
-    "Testing an Angular app.md",
     "Component Lifecycle Hooks.md"
   ]
 }
