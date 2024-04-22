@@ -1,0 +1,6 @@
+{
+    "build":{"dockerfile": "node.Docker"}
+    , "containerEnv": {
+    "CHOKIDAR_USEPOLLING": "true"
+  }
+}

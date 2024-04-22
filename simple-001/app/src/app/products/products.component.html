@@ -1,0 +1,10 @@
+<p>products works!</p>
+<div class="filters">
+    <button class="button" (click)="filter='Heads'">Heads</button>
+</div>
+<div>
+    
+    @for( product of getFilteredProducts(); track product.name){
+        <div>{{ product.name }}</div>
+    }
+</div>
