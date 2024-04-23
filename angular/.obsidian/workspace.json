@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "a1cb0f124ac9eae6",
+            "id": "d715c703bf206a1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular Interpolation.md",
+                "file": "Angular Services.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "right": {
     "id": "c37d5ea0e1bc1590",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Styling Angular Components.md",
+                "file": "Angular Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Styling Angular Components.md",
+                "file": "Angular Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Styling Angular Components.md"
+                "file": "Angular Services.md"
               }
             }
           }
@@ -158,13 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d21d37f3a33a68fd",
+  "active": "d715c703bf206a1e",
   "lastOpenFiles": [
     "Getting started.md",
+    "Angular Services.md",
     "Angular Interpolation.md",
-    "Component Lifecycle Hooks.md",
-    "Styling Angular Components.md",
+    "Communicating Between Angular Components.md",
     "Testing an Angular app.md",
+    "Making HTTP Requests with Angular.md",
+    "Routing and Navigating with Angular.md",
+    "Styling Angular Components.md",
+    "Component Lifecycle Hooks.md",
     "Welcome.md",
     "create a link.md",
     "Formatting Data with Angular Pipes.md"
