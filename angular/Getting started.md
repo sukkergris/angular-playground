@@ -11,6 +11,7 @@ npm start
 ```
 
 ## Add component
+
 ```bash
 ng g c home
 ng generate component home
@@ -23,6 +24,7 @@ ng generate component home
 ```
 
 ## Static assets
+
 ```json
 // angular.json
 "projects":{ "architect": { "options": { "assets": ["src/assets"]
