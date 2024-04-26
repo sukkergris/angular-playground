@@ -9,6 +9,7 @@ Using Expressions with inline code
 </div>
 ```
 
+```
 Using Expressions calling a function
 
 ```html

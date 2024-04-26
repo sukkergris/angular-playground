@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular Services.md",
+                "file": "vim/NERDTree.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular Services.md",
+                "file": "vim/NERDTree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular Services.md",
+                "file": "vim/NERDTree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular Services.md"
+                "file": "vim/NERDTree.md"
               }
             }
           }
@@ -159,17 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d715c703bf206a1e",
+  "active": "490bb4ce9536e8ac",
   "lastOpenFiles": [
-    "Getting started.md",
-    "Angular Services.md",
+    "Untitled.canvas",
+    "vim/NERDTree.md",
     "Angular Interpolation.md",
-    "Communicating Between Angular Components.md",
-    "Testing an Angular app.md",
-    "Making HTTP Requests with Angular.md",
-    "Routing and Navigating with Angular.md",
-    "Styling Angular Components.md",
+    "Untitled 1.md",
     "Component Lifecycle Hooks.md",
+    "vim",
+    "Communicating Between Angular Components.md",
+    "Best Practices.md",
+    "Angular Services.md",
+    "Routing and Navigating with Angular.md",
+    "Making HTTP Requests with Angular.md",
+    "Styling Angular Components.md",
+    "Getting started.md",
+    "Testing an Angular app.md",
     "Welcome.md",
     "create a link.md",
     "Formatting Data with Angular Pipes.md"
