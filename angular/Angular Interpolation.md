@@ -37,3 +37,13 @@ Bind to an event which sets a public prop in the component ts named `'filter'` u
 	<a class="button" (click)="filter='Heads' >Heads</a>
 </div>
 ```
+
+```plantuml
+
+if (counter?) equals (5) then
+:print 5;
+else 
+:print not 5;
+endif
+
+```

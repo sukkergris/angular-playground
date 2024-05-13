@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim/NERDTree.md",
+                "file": "Angular Interpolation.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "counter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vim/NERDTree.md",
+                "file": "Angular Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vim/NERDTree.md",
+                "file": "Angular Interpolation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vim/NERDTree.md"
+                "file": "Angular Interpolation.md"
               }
             }
           }
@@ -159,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "490bb4ce9536e8ac",
+  "active": "2a979ae67b8e5d85",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "vim/NERDTree.md",
+    "Styling Angular Components.md",
+    "Untitled.canvas",
     "Angular Interpolation.md",
     "Untitled 1.md",
     "Component Lifecycle Hooks.md",
@@ -172,7 +174,6 @@
     "Angular Services.md",
     "Routing and Navigating with Angular.md",
     "Making HTTP Requests with Angular.md",
-    "Styling Angular Components.md",
     "Getting started.md",
     "Testing an Angular app.md",
     "Welcome.md",
